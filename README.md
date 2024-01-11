@@ -1,4 +1,4 @@
-# 阿里227-x82y（成功率90%）
+# 阿里滑块227-x82y（成功率90%）
 ![Alt text](image.png)
 
 # 以下是瑞数全站456vmp的部分秒杀结果
@@ -15,11 +15,12 @@
 ## 腾讯滑块
 ![Alt text](image-4.png)
 
-## 抖音xs,common,x-bogus,a-bogus
-![Alt text](image-5.png)
+## 抖音x-bogus,a-bogus
+
 ![Alt text](image-6.png)
 
-## 小红书
+## 小红书xs,xs-common
+![Alt text](image-5.png)
 ![Alt text](image-7.png)
 
 
@@ -31,6 +32,7 @@
 ![Alt text](image-9.png)
 
 
-联系方式 qq:1140601003
-     wx:a1140601003
+联系方式 
+qq:1140601003
+wx:a1140601003
 

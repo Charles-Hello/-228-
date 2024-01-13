@@ -26,11 +26,17 @@
 
 # 整套算法-java-springboot
 ## 京东登录wskey算法(app端)
-![Alt text](image-8.png)
+![Alt text](image-13.png)
 
-## 京东登录m端算法获取cookie
+## 京东登录m端算法获取cookie+server
 ![Alt text](image-9.png)
 
+## 京粉转返利链接 python代码纯算
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+
+## 京东h5st 4.3 js纯算
+![Alt text](image-12.png)
 
 联系方式 
 qq:1140601003

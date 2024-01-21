@@ -35,8 +35,14 @@
 ![Alt text](image-10.png)
 ![Alt text](image-11.png)
 
-## 京东h5st 4.3 js纯算
+## 京东h5st 4.3 js纯算 ~~可视频讲解，看心情~~
 ![Alt text](image-12.png)
+
+
+## 快手web端滑块登录百分之95通过率
+
+![img.png](img.png)
+
 
 联系方式 
 qq:1140601003

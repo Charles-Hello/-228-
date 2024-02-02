@@ -39,7 +39,7 @@
 ![Alt text](image-12.png)
 
 
-## 快手web端滑块登录百分之95通过率
+## 快手web端滑块登录百分之95通过率（过风控）
 
 ![img.png](img.png)
 

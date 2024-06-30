@@ -32,7 +32,7 @@ wx:a114060100
 下面有成品，可需要的联系！
 ```
 # 阿里140
-![alt text](image-8.png)
+![alt text](image-25.png)
 
 # 阿里滑块227-x82y（成功率90%）
 ![Alt text](image.png)

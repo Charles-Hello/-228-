@@ -2,7 +2,7 @@
 
 
 ## 课程目录
-![img.png](image100.png)
+![alt text](image-27.png)
 
 ## 价格介绍
 课程：999元

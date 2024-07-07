@@ -3,7 +3,8 @@
 
 ## 课程目录
 ![alt text](image-27.png)
-228纯算搞定
+228纯算搞定!
+![alt text](image-29.png)
 ![alt text](image-28.png)
 ## 价格介绍
 课程：999元

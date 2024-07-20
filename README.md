@@ -3,7 +3,8 @@
 
 ## 课程目录
 ![alt text](image-27.png)
-228纯算搞定!
+228x82y and 227x82y
+纯算普通水果简单缺口全部搞定!<br>
 ![alt text](image-29.png)
 ![alt text](image-28.png)
 ## 价格介绍

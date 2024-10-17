@@ -9,6 +9,10 @@
 231纯算x82y 普通缺口水果都可以，支持高并发
 ![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202410171504769.png)
 
+
+魔改浏览器过cdp检测
+![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202410171506128.png)
+
 228x82y and 227x82y
 纯算普通水果简单缺口全部搞定!<br>
 ![alt text](image-29.png)

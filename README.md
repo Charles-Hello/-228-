@@ -1,9 +1,6 @@
 ## 课程目录
 ![alt text](逆向学习.png)
 
-
-
-
 ## 最近计划
 把js逆向遇到知识点的全部录制完，专心研究验证码、魔改浏览器的东西！
 
@@ -26,6 +23,8 @@
 - **欢迎大佬一起技术合作！**
 
 逆向交流群
+<br>
+
 ![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202505151817562.png)
 
 ## 想法
@@ -38,17 +37,18 @@
 
 
 
-recaptcha、cf、231纯算x82y 普通缺口水果都可以，支持高并发
+recaptchav2、v3、cf、231纯算x82y 普通缺口水果九宫格连线都可以，支持高并发
 ![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202410171504769.png)
 
 
 魔改浏览器过cdp检测
 ![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202410171506128.png)
 
-228x82y and 227x82y
-纯算普通水果简单缺口全部搞定!<br>
-![alt text](image-29.png)
-![alt text](image-28.png)
+魔改debugger的chromium源码，无视原有debugger且安全过掉debugger检测点，利用新名字debuggerpro去替换debugger触发暂停调试,通杀全网devtool检测，过全部devtool检测
+![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202509171014816.png)
+
+![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202509171015271.png)
+
 
 ```
 下面有成品，可需要的联系！
@@ -56,14 +56,14 @@ recaptcha、cf、231纯算x82y 普通缺口水果都可以，支持高并发
 # 阿里140
 ![alt text](image-25.png)
 
-# 阿里滑块227-x82y（成功率90%）
+# 阿里滑块231-x82y（成功率90%）
 ![Alt text](image.png)
 
-## 阿里x82y-227水果算法+模型
+## 阿里x82y-227、228、231水果、缺口、九宫、普通、连线算法
 ![alt text](image-17.png)
 ![alt text](image-14.png)
 
-# 以下是瑞数全站456vmp的部分秒杀结果
+# 以下是瑞数全站6vmp、6.5vmp纯算、补的并发秒杀结果+vmp还原解释器
 ## 王海
 ![Alt text](image-1.png)
 ## 专利
@@ -73,7 +73,7 @@ recaptcha、cf、231纯算x82y 普通缺口水果都可以，支持高并发
 
 
 
-# 最全dom、bom补环境框架秒杀
+# 最全cpp类框架dom、bom补环境框架秒杀
 ## 腾讯全套aid验证码协议+模型
 ![Alt text](image-4.png)
 ![alt text](image-16.png)
@@ -84,7 +84,7 @@ recaptcha、cf、231纯算x82y 普通缺口水果都可以，支持高并发
 
 ![Alt text](image-6.png)
 
-## 小红书xs,xs-common
+## 小红书xs,xs-common全部参数
 ![Alt text](image-5.png)
 ![Alt text](image-7.png)
 
@@ -100,10 +100,8 @@ recaptcha、cf、231纯算x82y 普通缺口水果都可以，支持高并发
 ![Alt text](image-10.png)
 ![Alt text](image-11.png)
 
-## 京东h5st 4.3 js纯算 
-![Alt text](image-12.png)
 
-## 京东h5st 4.7 js纯算 +补环境
+## 京东h5st 最新 纯算 +补环境+vmp还原解释器
 ![alt text](image-21.png)
 
 ## 快手web+激活did 滑块登录百分之95通过率（过风控拿数据）
@@ -114,10 +112,10 @@ recaptcha、cf、231纯算x82y 普通缺口水果都可以，支持高并发
 ![alt text](image-22.png)
 ![alt text](image-23.png)
 
-## 拼多多，pdd商家店的aq-content,ar-content
+## 拼多多，pdd商家店的a开头全部参数通杀过风控
 ![alt text](image-18.png)
 ![alt text](image-20.png)
 
-## boss直聘 zp_token
+## boss直聘 最新zp_token 纯算+补
 ![alt text](image-24.png)
 

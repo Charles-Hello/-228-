@@ -1,5 +1,5 @@
 ## 课程目录
-![alt text](逆向学习.png)
+![alt text](images/逆向学习.png)
 
 ## 最近计划
 把js逆向遇到知识点的全部录制完，专心研究验证码、魔改浏览器的东西！
@@ -54,68 +54,68 @@ recaptchav2、v3、cf、231纯算x82y 普通缺口水果九宫格连线都可以
 下面有成品，可需要的联系！
 ```
 # 阿里140
-![alt text](image-25.png)
+![alt text](images/image-25.png)
 
 # 阿里滑块231-x82y（成功率90%）
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 ## 阿里x82y-227、228、231水果、缺口、九宫、普通、连线算法
-![alt text](image-17.png)
-![alt text](image-14.png)
+![alt text](images/image-17.png)
+![alt text](images/image-14.png)
 
 # 以下是瑞数全站6vmp、6.5vmp纯算、补的并发秒杀结果+vmp还原解释器
 ## 王海
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 ## 专利
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
 ## 药监局
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
 
 
 
 # 最全cpp类框架dom、bom补环境框架秒杀
 ## 腾讯全套aid验证码协议+模型
-![Alt text](image-4.png)
-![alt text](image-16.png)
-![alt text](image-15.png)
+![Alt text](images/image-4.png)
+![alt text](images/image-16.png)
+![alt text](images/image-15.png)
 
 
 ## 抖音、巨量、头条，x-bogus,a-bogus
 
-![Alt text](image-6.png)
+![Alt text](images/image-6.png)
 
 ## 小红书xs,xs-common全部参数
-![Alt text](image-5.png)
-![Alt text](image-7.png)
+![Alt text](images/image-5.png)
+![Alt text](images/image-7.png)
 
 
 # 整套算法-java-springboot
 ## 京东登录wskey算法(app端)
-![Alt text](image-13.png)
+![Alt text](images/image-13.png)
 
 ## 京东登录m端算法获取cookie+server
-![Alt text](image-9.png)
+![Alt text](images/image-9.png)
 
 ## 京粉转返利链接 python代码纯算
-![Alt text](image-10.png)
-![Alt text](image-11.png)
+![Alt text](images/image-10.png)
+![Alt text](images/image-11.png)
 
 
 ## 京东h5st 最新 纯算 +补环境+vmp还原解释器
-![alt text](image-21.png)
+![alt text](images/image-21.png)
 
 ## 快手web+激活did 滑块登录百分之95通过率（过风控拿数据）
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 ## 易盾全套算法+模型识别
-![alt text](image-22.png)
-![alt text](image-23.png)
+![alt text](images/image-22.png)
+![alt text](images/image-23.png)
 
 ## 拼多多，pdd商家店的a开头全部参数通杀过风控
-![alt text](image-18.png)
-![alt text](image-20.png)
+![alt text](images/image-18.png)
+![alt text](images/image-20.png)
 
 ## boss直聘 最新zp_token 纯算+补
-![alt text](image-24.png)
+![alt text](images/image-24.png)
 

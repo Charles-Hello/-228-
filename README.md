@@ -35,7 +35,14 @@
 ![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202404151603117.png)
 
 
+小程序 f12 devtool
 
+{
+  "Version": 19895,
+  "LoadStartHookOffset": "0x25CE270",
+  "CDPFilterHookOffset": "0x30A9330",
+  "SceneOffsets": [64, 1472, 8, 1408, 16, 456]
+}
 
 recaptchav2、v3、cf、231纯算x82y 普通缺口水果九宫格连线都可以，支持高并发
 ![](https://demo-1305722691.cos.ap-nanjing.myqcloud.com/imgs/202410171504769.png)
